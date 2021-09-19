@@ -99,15 +99,15 @@ export default function Example() {
       // spacing={20}
       sections={[
         {
-          title: 'Titulo 1',
+          title: 'Colores Verdosos',
           data: items.slice(0, 6),
         },
         {
-          title: 'Titulo 2',
+          title: 'Colores azules y Primaverales ඞ',
           data: items.slice(6, 12),
         },
         {
-          title: 'Titulo 3',
+          title: 'Rojizo y Otoñales',
           data: items.slice(12, 20),
         },
       ]}
